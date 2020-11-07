@@ -27,21 +27,18 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Screenshots
 
-The following image shows the web application's appearance and functionality:
+The following image shows the web application:
 
-![image](https://user-images.githubusercontent.com/69064703/97789042-d0abe200-1b93-11eb-9317-9503c28edbaf.png)
-![image](https://user-images.githubusercontent.com/69064703/97789061-ddc8d100-1b93-11eb-8234-c6c5e48da2f4.png)
-![image](https://user-images.githubusercontent.com/69064703/97789077-fb963600-1b93-11eb-9eaf-71dac6303861.png)
-![image](https://user-images.githubusercontent.com/69064703/97789101-22546c80-1b94-11eb-8853-54ee17920aa7.png)
+![image](https://user-images.githubusercontent.com/69064703/98452364-d158f100-211c-11eb-8720-c401ee92f0a1.png)
 
 
 ## Live URL
 
-[Let's go to My Password Generator](https://andreedantzler.github.io/Portfolio/)
+[Let's go to My Password Generator](https://andreedantzler.github.io/PasswordGenerator/)
 
 ## Repo URL
 
-https://github.com/AndreeDantzler/Portfolio
+(https://github.com/AndreeDantzler/PasswordGenerator)
 
 ## Licenses: 
 
